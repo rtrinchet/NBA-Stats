@@ -13,3 +13,7 @@ Fetch NBA Stats and Salaries data
 ### Model the relation between college stats and draft position
 
 ### Model the relation between draft position and total career earnings
+
+# Extras
+
+1. Adjust salaries for inflation: [link](https://www.in2013dollars.com/us/inflation/1996?amount=3000000)
